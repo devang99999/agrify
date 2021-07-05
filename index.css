@@ -228,4 +228,7 @@ input{
   .discover-btn{
     display: none;
   }
+    .mn{
+        padding:0;
+    }
 }
