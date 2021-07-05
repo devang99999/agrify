@@ -231,4 +231,10 @@ input{
     .mn{
         padding:0;
     }
+    
+}
+@media only screen and (max-width: 1000px){
+ .discover-btn{
+    display: none;
+  }
 }
